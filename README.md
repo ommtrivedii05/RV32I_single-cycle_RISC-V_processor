@@ -131,14 +131,6 @@ iverilog -o cpu_tb *.v
 vvp cpu_tb
 gtkwave dump.vcd
 
-🚀 Future Work
 
-Complete testbench verification
 
-Add support for full RV32I instruction set
 
-Implement pipeline architecture
-
-Add FPGA synthesis support
-
-Improve documentation and diagrams
