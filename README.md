@@ -114,6 +114,60 @@ Currently implemented instructions include a subset of **RV32I**.
 - Full RV32I support
 
 ---
+# 🚀 Future Work
+
+![Verification](https://img.shields.io/badge/Verification-In%20Progress-yellow)
+![RV32I](https://img.shields.io/badge/ISA-RV32I-blue)
+![Goal](https://img.shields.io/badge/Goal-Full%20CPU%20Implementation-green)
+
+Planned improvements and next development steps for the processor:
+
+### 🧪 Verification
+- Develop **comprehensive testbenches** for all modules
+- Add **instruction-level verification**
+- Generate and analyze **simulation waveforms**
+- Implement **automated simulation scripts**
+
+### ⚙️ ISA Expansion
+- Add support for remaining **RV32I instructions**
+- Implement **JAL and JALR**
+- Support **shift instructions (SLL, SRL, SRA)**
+- Implement **comparison operations (SLT, SLTU)**
+
+### 🏗️ Architecture Improvements
+- Convert the processor into a **5-stage pipelined CPU**
+- Implement **hazard detection and forwarding**
+- Add **stall and flush logic**
+
+### 💻 Hardware Deployment
+- Synthesize design on **FPGA**
+- Optimize modules for **hardware timing**
+- Add **memory-mapped peripherals**
+
+### 📊 Documentation
+- Add **CPU datapath diagram**
+- Include **instruction execution examples**
+- Provide **simulation waveform screenshots**
+
+---
+
+# 👨‍💻 Author
+
+![Hardware](https://img.shields.io/badge/Focus-Digital%20Design-blue)
+![RISC-V](https://img.shields.io/badge/Architecture-RISC--V-green)
+![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
+
+**Om Trivedi**
+
+Electronics / Digital Design Enthusiast  
+Focused on **CPU architecture, RTL design, and hardware verification**
+
+🔗 GitHub: https://github.com/YOUR_USERNAME  
+🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+
+---
+
+⭐ *If you found this project helpful, consider giving the repository a star!*
 
 # 🧪 Simulation
 
