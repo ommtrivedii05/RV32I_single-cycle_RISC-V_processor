@@ -162,9 +162,6 @@ Planned improvements and next development steps for the processor:
 Electronics / Digital Design Enthusiast  
 Focused on **CPU architecture, RTL design, and hardware verification**
 
-🔗 GitHub: https://github.com/YOUR_USERNAME  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-
 ---
 
 ⭐ *If you found this project helpful, consider giving the repository a star!*
